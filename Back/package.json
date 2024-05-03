@@ -1,0 +1,20 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Back for Next JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Project",
+    "Spa"
+  ],
+  "author": "Aburok",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "nodemon": "^3.1.0"
+  }
+}
